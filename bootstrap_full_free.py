@@ -26,7 +26,7 @@ from collections import defaultdict
 # ---------------------------
 # User settings (tune these)
 # ---------------------------
-EXCEL = "先插值再平滑计算.xlsx"
+EXCEL = "data.xlsx"
 SHEET_KEYWORD = "smooth"
 MAP_OUT_DIR = "fit_results_smoothdata"    # directory where MAP outputs saved
 OUTDIR = "fit_results_smoothdata_bootstrap_free"
