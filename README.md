@@ -1,4 +1,4 @@
-# Long-term Degradation Model for Marine Sedimentary Black Carbon
+# A Black Carbon Power-law Degradation Model (BC-PDM)
 
 This repository provides the Python code used to develop and constrain a quantitative degradation model for black carbon (BC) preserved in marine sediments over geological timescales.
 
